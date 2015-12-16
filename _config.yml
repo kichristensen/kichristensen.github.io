@@ -28,8 +28,8 @@ description: Kim Christensen's blog
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Me: "aboutme"
-  Author's home: "http://kichristensen.github.io"
+  #About Me: "aboutme"
+  #Author's home: "http://kichristensen.github.io"
   
 # --- Footer options --- #
 
